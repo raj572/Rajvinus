@@ -1,0 +1,95 @@
+body
+{
+    margin-top: auto;
+    background-image: url(wallpapersden.com_programming-coding-language_3840x2400.jpg);
+    
+    
+}
+.header
+{
+    margin-top: 100px;
+    background-image:linear-gradient(to bottom,rgba(151, 12, 151,0.6),black);
+    height: 80px;
+    width: 700px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 450px;
+    display:flex;
+
+}
+
+.data
+{
+   text-align: center;
+    height: 500px;
+    width: 700px;
+    background-image: linear-gradient(to bottom,rgba(233, 8, 158, 0.6),black);
+    margin-left: 450px;
+    color: aliceblue;
+}
+.c1
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: linear-gradient(red,white);   
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.c2
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(18, 121, 146),rgb(167, 173, 175));  
+    margin-left: 5px; 
+    margin-top: 25px;
+}
+.c3
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(124, 13, 124),white);  
+    margin-left: 5px;
+    margin-top: 25px;
+   
+}
+.text
+{
+    text-align: right;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 300px;
+    margin-top: 25px;
+    font-size: larger;
+
+}
+.footer
+{
+    margin-top: 100px;
+    background-image:linear-gradient(to bottom,rgba(151, 12, 151,0.6),black);
+    height: 80px;
+    width: 700px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 450px;
+    margin-top: auto;
+    display:flex;
+   
+}
+.image
+{
+    margin-left: 5px;
+    margin-top: 25px;
+  
+
+}
+.right
+{
+    color: rgb(121, 125, 129);
+    margin-left: 450px;
+    font-size: small;
+    font-weight: lighter;
+    margin-top: 15px;
+}

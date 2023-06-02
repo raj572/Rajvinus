@@ -1,0 +1,58 @@
+body
+{
+    margin: 10px 10px 10px 10px;
+}
+header
+{
+    height: 9vh;
+    
+}
+header p
+{
+    margin-bottom: 0px;
+    }
+.heading
+{
+    height: 25vh;
+    background-color: red;
+    width: 100%;
+}
+.font1 p
+{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 180px;
+    font-weight: 800;
+    color: aliceblue;
+    text-align: center;
+
+}
+.line
+{
+    height: 3px;
+    background-color: black;
+    width: 100%;
+}
+.yline
+{
+    height: 5px;
+    background-color: rgb(231, 188, 45);
+    width: 100%;
+}
+.ihead
+{
+    color: rgb(41, 48, 53);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: auto;
+}
+.image
+{
+        
+        color: #fff;
+        background: url(IMG_20230510_084713_684.jpg);
+        margin: 0%;
+        height:fit-content;
+        width:fit-content;
+     
+
+}

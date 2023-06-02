@@ -1,0 +1,41 @@
+body
+{
+    background-image: url(wallpapersden.com_programming-coding-language_3840x2400.jpg);
+    margin-left: auto
+}
+.form
+{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 550px;
+    width: 300px;
+    color: white;
+    background-image: linear-gradient(to top,rgba(151, 12, 151,0.3),black);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 30px;
+    font-size: large;
+    box-shadow: inset;
+    
+}
+.data
+{
+    margin-left: 30px;
+}
+.heading
+{
+    background-image: linear-gradient(to right,black,rgb(179, 10, 142));
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(231, 213, 229);
+}
+button
+{
+    border-radius: 10px;
+    background-color: rgb(148, 14, 96);
+    color: rgb(201, 107, 188);
+}
+a
+{
+    color: aliceblue;
+}

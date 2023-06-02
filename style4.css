@@ -1,0 +1,115 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    margin-right: 0%;
+    top: 0;
+    right: 0;
+
+
+}
+.header
+{
+    background-color: rgb(147, 221, 217);
+    height: 70px;
+    width: 100%;
+}
+.content1
+{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    float: right;
+    margin-bottom: 10px;
+}
+.card
+{
+    height: 50vh;
+    width: 80vw;
+    background-image: linear-gradient(to right,rgb(216, 151, 98),rgb(222, 240, 150));
+    margin-top: 250px;
+    margin-left: 0;  
+    padding: 0px 100px 0px 200px;
+}
+.card-img
+{
+    border-radius: 15px;
+    align-items: center;
+    height: 200;
+    width:auto;
+}
+.card-img img
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 200px;
+    width: 300px;
+    border-radius: 15px;
+    align-items: center;
+}
+.gift
+{
+    margin-top: 50px;
+}
+.gi
+{
+    margin-left: 80px;
+}
+.offer
+{
+    margin-left: 150px;
+    margin-right: 0%;
+}
+.login
+{
+     margin-left: auto;
+     padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.footer
+{
+    margin-top: 50px;
+    color: rgb(83, 83, 88);
+    text-decoration: none;
+    background-image: linear-gradient(to right,rgb(216, 163, 82),pink);
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+}
+.sp
+{
+    width: 800px;
+    margin-right: 0%;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(245, 234, 234);
+    
+}
+.banner
+{
+    background-image: linear-gradient(to right, orange,pink);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sp2
+{
+    width: 500px;
+    color: rgb(138, 135, 135);
+}
+button
+{
+    border-radius: 50px;
+    cursor: pointer;
+    color: orange;
+}
+.Next button{
+    border-radius: 50px;
+    height: 40px;
+    width: 60px;
+    background-color: blueviolet;
+    float: right;
+
+}
